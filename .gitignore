@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Dataset stuff -- users will need to unzip dataset locally to access
+*.csv
+
+# MacOS environment
+__MACOSX/
