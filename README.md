@@ -12,3 +12,6 @@ cd datasets
 # if using a linux environment: $ sudo apt-get install unzip
 unzip spotify_tracks.zip
 ```
+
+## Credits
+- Dataset: rodolfofigueroa, 1.2m+ spotify songs, Kaggle.com, [link](https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs?resource=download)
