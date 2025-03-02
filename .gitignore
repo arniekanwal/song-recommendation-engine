@@ -172,6 +172,8 @@ cython_debug/
 
 # Dataset stuff -- users will need to unzip dataset locally to access
 *.csv
+*.crc
+_SUCCESS*
 
 # MacOS environment
 __MACOSX/
